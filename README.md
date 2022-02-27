@@ -1,7 +1,5 @@
 # LATIHAN3DPBO2022
 
-# LATIHAN2DPBO2022
-
 /Saya Nelly Joy Christi Simanjuntak 2000199 mengerjakan Latihan 3 dalam mata kuliah Desain dan Pmerograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin/
 
 Terdapat 4 kelas yang akan dihubungkan dengan Composition
@@ -45,6 +43,25 @@ Berikut screenshot hasil program latihan 2
   ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshot/cpp.png?raw=true)
 
 
+Test Case (contoh Inputan)
+==========================
+2
+Intel
+800000
+SSD
+256
+700000
+512
+258000
+AMD
+758000
+HDD
+1024
+512000
+512
+258000
 
-Sekian tugas latihan 2 DPBO, mohon maaf jika masih banyak kekurangannya.
+
+
+Sekian tugas latihan 3 DPBO, mohon maaf jika masih banyak kekurangannya.
 Terima kasih :)
