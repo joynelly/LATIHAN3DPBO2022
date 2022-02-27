@@ -47,10 +47,10 @@ Berikut screenshot hasil program latihan 3
 
   4. C++
   
-  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshoot/cpp.png?raw=true)
+  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshoot/c++.png?raw=true)
+  
+ 
 
-
-_Mohon maaf karena pada screenshot hasil program pada bagian inputannya terdapat beberapa bagian/baris yang terpotong/hilang saat mau discreenshot, tapi saat saya menjalankan program saya memasukkan inputan dengan lengkap sesuai testcase yang ada dibagian akhir._
 
 **Test Case (contoh Inputan)**
 ==========================
