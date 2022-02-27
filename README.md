@@ -21,26 +21,27 @@ ALGORITMA PROGRAM
 File kelas berisi atribut tiap kelas beserta getter dan setter untuk tiap atribut.
 Pada setiap file kelas terdapat sebuah prosedur untuk menampilkan atribut kelas tersebut.
 Untuk java, C++, dan python dapat menerima inputan data PC sejumlah n.
+Setelah selesai memasukkan inputan, program akan menampilkan hasil data PC.
 Test case (inputan) program ada pada bagian akhir.
 
 
 HASIL PROGRAM
-Berikut screenshot hasil program latihan 2
+Berikut screenshot hasil program latihan 3
   1. Java
   
-  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshot/java.png?raw=true)
+  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshoot/java.png?raw=true)
 
   2. PHP
   
-  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshot/php.png?raw=true)
+  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshoot/php.png?raw=true)
 
   3. Python
   
-  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshot/python.png?raw=true)
+  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshoot/python.png?raw=true)
 
   4. C++
   
-  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshot/cpp.png?raw=true)
+  ![alt text](https://github.com/joynelly/LATIHAN3DPBO2022/blob/main/screenshoot/cpp.png?raw=true)
 
 
 Test Case (contoh Inputan)
